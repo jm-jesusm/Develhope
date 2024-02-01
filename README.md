@@ -22,7 +22,7 @@
       
 2. Semantic HTML, images and multimedia &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="Semantic HTML progression">
     - Navbar
-        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es3)
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es4)
       
     - Card
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
