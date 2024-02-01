@@ -4,13 +4,13 @@
 
 ## Tecnologías:
 
-- [<div style="display: flex; gap: 1em;">HTML ![HTML progression](https://img.shields.io/badge/progress-0%-red)</div>](#HTML)
+- [<div style="display: flex; gap: 1em;">HTML ![HTML progression](https://img.shields.io/badge/progress-0%25-red)</div>](#HTML)
 
 ## Tabla de contenidos:
 
 ### HTML
 
-1. <span style="display: flex; gap: 1em;"> Introduction to HTML and most commonly used tags ![introduction html progression](https://img.shields.io/badge/progress-0%-red)</span>
+1. <span style="display: flex; gap: 1em;"> Introduction to HTML and most commonly used tags ![introduction html progression](https://img.shields.io/badge/progress-0%25-red)</span>
     - <span style="display: flex; gap: .5em; margin: .3em">HEAD
         <!-- [![go to code](https://img.shields.io/badge/go%20to%20code-grey)]() -->
       <span>
@@ -20,14 +20,14 @@
     - <span style="display: flex; gap: .5em; margin: .3em">Table
         <!-- [![go to code](https://img.shields.io/badge/go%20to%20code-grey)]() -->
       <span>
-2. <span style="display: flex; gap: 1em;"> Semantic HTML, images and multimedia ![semantic html progression](https://img.shields.io/badge/progress-0%-red)</span>
+2. <span style="display: flex; gap: 1em;"> Semantic HTML, images and multimedia ![semantic html progression](https://img.shields.io/badge/progress-0%25-red)</span>
     - <span style="display: flex; gap: .5em; margin: .3em">Navbar
         <!-- [![go to code](https://img.shields.io/badge/go%20to%20code-grey)]() -->
       <span>
     - <span style="display: flex; gap: .5em; margin: .3em">Card
         <!-- [![go to code](https://img.shields.io/badge/go%20to%20code-grey)]() -->
       <span>
-3. <span style="display: flex; gap: 1em;"> Forms ![forms progression](https://img.shields.io/badge/progress-0%-red)</span>
+3. <span style="display: flex; gap: 1em;"> Forms ![forms progression](https://img.shields.io/badge/progress-0%25-red)</span>
     - <span style="display: flex; gap: .5em; margin: .3em">Form
         <!-- [![go to code](https://img.shields.io/badge/go%20to%20code-grey)]() -->
       <span>
