@@ -4,30 +4,30 @@
 
 ## Tecnologías:
 
-- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-0%25-red" align="center" alt="HTML progress">](#HTML)
+- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-22%25-red" align="center" alt="HTML progress">](#HTML)
 
 ## Tabla de contenidos:
 
 ### HTML
 
-1. Introduction to HTML and most commonly used tags &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-red" align="center" alt="HTML Introduction progression">
+1. Introduction to HTML and most commonly used tags &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-66%25-yellow" align="center" alt="HTML Introduction progression">
     - HEAD
-        <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es1)
       
     - HTML tags
-        <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es2)
       
     - Table
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
       
-2. Semantic HTML, images and multimedia &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-red" align="center" alt="Semantic HTML progression">
+2. Semantic HTML, images and multimedia &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Semantic HTML progression">
     - Navbar
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
       
     - Card
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
       
-3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-red" align="center" alt="HTML form progression">
+3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="HTML form progression">
     - Form 
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
       
