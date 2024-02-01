@@ -4,7 +4,7 @@
 
 ## Tecnologías:
 
-- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-55%25-yellow" align="center" alt="HTML progress">](#HTML)
+- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-66%25-yellow" align="center" alt="HTML progress">](#HTML)
 
 ## Tabla de contenidos:
 
@@ -27,9 +27,9 @@
     - Card
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es5)
       
-3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="HTML form progression">
+3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-25%25-red" align="center" alt="HTML form progression">
     - Form 
-        <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es6)
       
     - Attributes 
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
