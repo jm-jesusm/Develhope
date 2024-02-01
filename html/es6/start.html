@@ -1,19 +1,74 @@
 <!DOCTYPE html>
 <html lang="eng">
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-    />
-    <title>HTML Lesson</title>
-    <style>
-      label {
-        display: block;
-      }
-    </style>
-  </head>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <title>HTML Lesson</title>
+        <style>
+            label {
+                display: block;
+            }
+        </style>
+    </head>
 
-  <body></body>
+    <body>
+        <label>
+            Email
+            <input type="email" name="email">
+        </label>
+        <label>
+            Password
+            <input type="password" name="password">
+        </label>
+        <label>
+            Name
+            <input type="text" name="name">
+        </label>
+        <label>
+            Surname
+            <input type="text" name="lastname">
+        </label>
+        <label>
+            Date of birth
+            <input type="date">
+        </label>
+        <label>
+            Telephone number
+            <input type="tel" name="telephone" pattern="[1-9]{9}" maxlength="9">
+        </label>
+        <label>
+            Choose a plan
+            <select name="plan">
+                <option value="0">Free plan - 0$</option>
+                <hr>
+                <option value="7">Golden plan - 7$</option>
+                <option value="13">Platinum plan - 13$</option>
+                <option value="25">Diamond plan - 25$</option>
+            </select>
+            <label>
+                Pro plan
+                <input type="checkbox" name="pro-plan">
+            </label>
+        </label>
+        <label>
+            Credit card number
+            <input type="number" name="credit-card-number">
+        </label>
+        <label>
+            CVC
+            <input type="number" name="cvc" maxlength="9">
+        </label>
+        <label>
+            Expiration date
+            <input type="month" name="expiration-date">
+        </label>
+        <label>
+            Billing address
+            <input type="text" name="billing-address">
+        </label>
+    </body>
 </html>
