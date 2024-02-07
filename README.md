@@ -4,7 +4,7 @@
 
 ## Tecnologías:
 
-- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-77%25-yellow" align="center" alt="HTML progress">](#HTML)
+- [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-88%25-yellow" align="center" alt="HTML progress">](#HTML)
 
 ## Tabla de contenidos:
 
@@ -27,7 +27,7 @@
     - Card
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es5)
       
-3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="HTML form progression">
+3. Forms &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-75%25-yellow" align="center" alt="HTML form progression">
     - Form 
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es6)
       
@@ -35,7 +35,7 @@
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es7)
       
     - Validation 
-        <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es8)
       
     - Create a HTML blog page 
         <!-- &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">]() -->
