@@ -6,7 +6,7 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
-- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS progress">](#CSS)
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-7%25-darkred" align="center" alt="CSS progress">](#CSS)
 
 ## Tabla de contenidos:
 
