@@ -6,6 +6,8 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS progress">](#CSS)
+
 ## Tabla de contenidos:
 
 ### HTML
@@ -39,4 +41,41 @@
       
     - Create a HTML blog page 
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/html-exercises/html/es9)
+
+### CSS
+
+1. CSS Fundamentals &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS Fundamentals progression">
+    - CSS Colors
       
+    - Cascading
+      
+2. Selectors and Box Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Selectors and Box Model progression">
+    - Pseudo classes and pseudo elements
+      
+    - Table
+
+    - Card
+
+    - Nav
+      
+3. CSS Functions and Custom properties &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS Functions and Custom properties progression">
+    - Rewrite de rules
+
+4. Introduction to layouts &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Introduction to layouts progression">
+
+5. Flexbox &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Flexbox progression">
+    - Flexbox
+
+    - Flexbox properties
+
+6. Grid &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Grid progression">
+    - Grid
+
+    - Grid properties
+
+7. Responsive Web Design &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Responsive Web Design progression">
+    - Responsive
+
+    - Media Queries
+
+    - Nav responsive
