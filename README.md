@@ -6,7 +6,7 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
-- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS progress">](#CSS)
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-21%25-darkred" align="center" alt="CSS progress">](#CSS)
 
 ## Tabla de contenidos:
 
@@ -44,15 +44,17 @@
 
 ### CSS
 
-1. CSS Fundamentals &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="CSS Fundamentals progression">
+1. CSS Fundamentals &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-yellow" align="center" alt="CSS Fundamentals progression">
     - CSS Colors
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es1)
       
-    - Cascading
+    - Cascading 
+        &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es2)
       
-2. Selectors and Box Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Selectors and Box Model progression">
+2. Selectors and Box Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-25%25-red" align="center" alt="Selectors and Box Model progression">
     - Pseudo classes and pseudo elements
-      
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es1)
+
     - Table
 
     - Card
