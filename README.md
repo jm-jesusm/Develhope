@@ -6,7 +6,7 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
-- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-35%25-darkred" align="center" alt="CSS progress">](#CSS)
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="CSS progress">](#CSS)
 
 ## Tabla de contenidos:
 
@@ -64,8 +64,9 @@
     - Nav
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es6)
       
-3. CSS Functions and Custom properties &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS Functions and Custom properties progression">
+3. CSS Functions and Custom properties &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS Functions and Custom properties progression">
     - Rewrite de rules
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es7)
 
 4. Introduction to layouts &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Introduction to layouts progression">
 
