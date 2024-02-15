@@ -44,14 +44,14 @@
 
 ### CSS
 
-1. CSS Fundamentals &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-yellow" align="center" alt="CSS Fundamentals progression">
+1. CSS Fundamentals &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS Fundamentals progression">
     - CSS Colors
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es1)
       
     - Cascading 
         &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es2)
       
-2. Selectors and Box Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-75%25-yellow" align="center" alt="Selectors and Box Model progression">
+2. Selectors and Box Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="Selectors and Box Model progression">
     - Pseudo classes and pseudo elements
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es3)
 
@@ -62,6 +62,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es5)
 
     - Nav
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es6)
       
 3. CSS Functions and Custom properties &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="CSS Functions and Custom properties progression">
     - Rewrite de rules
