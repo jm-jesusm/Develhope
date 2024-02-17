@@ -77,8 +77,9 @@
     - Flexbox properties
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es9)
 
-6. Grid &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Grid progression">
+6. Grid &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="Grid progression">
     - Grid
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es10)
 
     - Grid properties
 
