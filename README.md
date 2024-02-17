@@ -6,7 +6,7 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
-- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-78%25-yellow" align="center" alt="CSS progress">](#CSS)
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-92%25-yellow" align="center" alt="CSS progress">](#CSS)
 
 ## Tabla de contenidos:
 
@@ -84,10 +84,11 @@
     - Grid properties
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es11)
 
-7. Responsive Web Design &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Responsive Web Design progression">
+7. Responsive Web Design &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-66%25-yellow" align="center" alt="Responsive Web Design progression">
     - Responsive
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es12)
 
     - Media Queries
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es13)
 
     - Nav responsive
