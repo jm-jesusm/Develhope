@@ -1,0 +1,99 @@
+body {
+    margin: 90px 30px;
+    font-family: sans-serif;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    justify-content: center;
+}
+
+main article {
+    background: linear-gradient(156deg, rgba(204,204,204,1) 0%, rgba(255,255,255,1) 90%);
+    border-radius: 20px;
+    box-shadow: 0 3px 1px 0px #00000030;
+}
+
+.post-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.post-info .user {
+    display: flex;
+    gap: 10px;
+}
+
+.post-info .user .username {
+    font-size: 1.2rem;
+}
+
+.post-info .user .avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    /* placeholder */
+    background-color: white;
+}
+
+.post-info .user time {
+    color: white;
+    font-size: .8rem;
+}
+
+.post-info .options {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.post-info .options .circle {
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+}
+
+.picture {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: center;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.buttons svg {
+    width: 20px;
+}
+
+.caption {
+    padding: 0 10px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.caption .username {
+    font-weight: bold;
+}
+
+@media screen and (min-width: 375px) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    main {
+        grid-template-columns: repeat(3, minmax(auto, 300px));
+    }
+}
