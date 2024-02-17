@@ -1,0 +1,39 @@
+main {
+    width: 350px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 3px 4px 0px #00000050;
+    font-family: sans-serif;
+}
+
+.display {
+    background-color: #424C52;
+    color: white;
+    padding: 10px;
+    text-align: end;
+    font-size: 2em;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+    background-color: #899DAE;
+}
+
+.buttons button {
+    background-color: #EFF2F5;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 20px;
+    border: none;
+}
+
+.buttons .operations {
+    background-color: #D2DCE3;
+}
+
+.buttons .resolve {
+    background-color: #F77077;
+    grid-row: span 4;
+}
