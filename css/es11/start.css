@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+#green {
+    background-color: #BAFFC9;
+    grid-column: span 3;
+}
+
+#yellow {
+    background-color: #FFFFBA;
+}
+
+#red {
+    background-color: #FFB3BA;
+}
+
+#blue {
+    background-color: #BAE1FF;
+    grid-row: span 2;
+}
+
+#orange {
+    background-color: #FFDFBA;
+    order: 1;
+    grid-column: span 2;
+}
+
+section {
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 0px 20px;
+    list-style: none;
+}
+
+ul li {
+    padding: 20px;
+    background-color: white;
+}
