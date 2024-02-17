@@ -6,9 +6,17 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>CSS Lesson</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+    <nav>
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+        </ul>
+    </nav>
     <main>
         <article>
             <h2>Latin text</h2>
@@ -50,17 +58,19 @@
                 leo, ac scelerisque enim turpis sit amet orci. Sed varius, ipsum ut malesuada blandit, eros urna tempus
                 metus, non dignissim massa nisi ut nisl. Mauris nibh odio, vestibulum nec finibus at, accumsan eu nibh.
             </p>
-            <img src="../assets/img1.png" alt="Immagine 1"/>
-            <img src="../assets/img2.png" alt="Immagine 2"/>
+            <img src="assets/img1.png" alt="Immagine 1"/>
+            <img src="assets/img2.png" alt="Immagine 2"/>
         </article>
     </main>
+    <aside>
+        <img src="assets/aside.jpg" alt="aside">
+    </aside>
+    <footer>
+        <form action="#">
+            <label for="form-email"> Email</label>
+            <input type="email" id="form-email" required />
+            <button type="submit">Submit to the newsletter</button>
+        </form>
+    </footer>
 </body>
-<footer>
-    <form action="#">
-        <label for="form-email"> Email</label>
-        <input type="email" id="form-email" required />
-        <button type="submit">Submit to the newsletter</button>
-    </form>
-</footer>
-
 </html>
