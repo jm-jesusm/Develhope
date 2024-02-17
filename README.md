@@ -6,7 +6,7 @@
 
 - [HTML](#HTML)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="HTML progress">](#HTML)
 
-- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-57%25-yellow" align="center" alt="CSS progress">](#CSS)
+- [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-64%25-yellow" align="center" alt="CSS progress">](#CSS)
 
 ## Tabla de contenidos:
 
@@ -70,11 +70,12 @@
 
 4. Introduction to layouts &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="Introduction to layouts progression">
 
-5. Flexbox &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-50%25-yellow" align="center" alt="Flexbox progression">
+5. Flexbox &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="Flexbox progression">
     - Flexbox
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es8)
 
     - Flexbox properties
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es9)
 
 6. Grid &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Grid progression">
     - Grid
