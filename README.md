@@ -8,6 +8,8 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="JavaScript progress">](#JavaScript)
+
 ## Tabla de contenidos:
 
 ### HTML
@@ -93,3 +95,110 @@
 
     - Nav responsive
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/css-exercises/css/es14)
+
+### JavaScript
+
+1. Review Introductory Course &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Review Introductory Course progression">
+    - Conditional and Loops
+      
+    - Conditional and Loops
+      
+    - Arrow Functions
+
+    - Conditional and Loops
+
+    - Objects Copying
+
+    - Closures
+
+    - Closures
+
+    - Closures
+
+    - Objects Methods
+
+    - Optional Chaining
+
+    - Array Methods Advanced
+
+    - Array Methods Advanced
+
+    - Array Methods Advanced
+
+    - Array Methods Advanced
+
+    - Array Methods Advanced
+
+2. Classes &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Classes progression">
+    - Classes
+    
+    - Classes inheritance
+    
+    - Static Method
+    
+    - Getters and Setters
+    
+    - instanceof Operator
+
+3. Features &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Features progression">
+    - Destructuring
+    
+    - Destructuring
+    
+    - Destructuring
+    
+    - Destructuring
+    
+    - Rest parameters and spread syntax
+    
+    - Rest parameters and spread syntax
+    
+    - Rest parameters and spread syntax
+    
+    - Rest parameters and spread syntax
+    
+    - JSON Methods
+    
+    - JSON Methods
+    
+    - JSON Methods
+    
+    - JSON Methods
+    
+    - Template strings
+
+4. Asynchronous Javascript &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Asynchronous progression">
+    - Callbacks
+    
+    - Callbacks
+    
+    - Callbacks
+    
+    - Promise
+    
+    - Promise Chaining
+    
+    - Promise Errors
+
+5. Fetch &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Fetch progression">
+    - Network Requests - Todo List
+    
+    - Network Requests
+
+6. Browser Storage &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Browser Storage progression">
+    - Local Storage
+    
+    - Local Storage
+    
+    - Network Requests
+
+7. ES Modules &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="ES Modules progression">
+
+8. Document Object Model &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="DOM progression">
+    - Document Object Model (DOM)
+    
+    - Document Object Model (DOM)
+    
+    - Document Object Model (DOM)
+    
+    - TodoList + DOM
