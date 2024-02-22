@@ -8,7 +8,7 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
-- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-24%25-darkred" align="center" alt="JavaScript progress">](#JavaScript)
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-26%25-darkred" align="center" alt="JavaScript progress">](#JavaScript)
 
 ## Tabla de contenidos:
 
@@ -98,7 +98,7 @@
 
 ### JavaScript
 
-1. Review Introductory Course &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-80%25-yellow" align="center" alt="Review Introductory Course progression">
+1. Review Introductory Course &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-86%25-yellow" align="center" alt="Review Introductory Course progression">
     - Conditional and Loops
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es1)
       
@@ -136,6 +136,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es12)
 
     - Array Methods Advanced
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es13)
 
     - Array Methods Advanced
 
