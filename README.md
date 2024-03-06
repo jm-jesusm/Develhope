@@ -8,7 +8,7 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
-- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-35%25-darkred" align="center" alt="JavaScript progress">](#JavaScript)
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-37%25-red" align="center" alt="JavaScript progress">](#JavaScript)
 
 ## Tabla de contenidos:
 
@@ -144,7 +144,7 @@
     - Array Methods Advanced
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es15)
 
-2. Classes &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-40%25-red" align="center" alt="Classes progression">
+2. Classes &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-60%25-red" align="center" alt="Classes progression">
     - Classes
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es16)
     
@@ -152,6 +152,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es17)
     
     - Static Method
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es18)
     
     - Getters and Setters
     
