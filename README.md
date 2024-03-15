@@ -183,6 +183,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es27)
     
     - Rest parameters and spread syntax
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es28)
     
     - JSON Methods
     
