@@ -8,7 +8,7 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
-- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-64%25-red" align="center" alt="JavaScript progress">](#JavaScript)
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-68%25-red" align="center" alt="JavaScript progress">](#JavaScript)
 
 ## Tabla de contenidos:
 
@@ -160,7 +160,7 @@
     - instanceof Operator
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es20)
 
-3. Features &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-92%25-yellow" align="center" alt="Features progression">
+3. Features &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="Features progression">
     - Destructuring
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es21)
     
@@ -198,6 +198,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es32)
     
     - Template strings
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es32)
 
 4. Asynchronous Javascript &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Asynchronous progression">
     - Callbacks
