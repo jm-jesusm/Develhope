@@ -160,7 +160,7 @@
     - instanceof Operator
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es20)
 
-3. Features &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-84%25-yellow" align="center" alt="Features progression">
+3. Features &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-92%25-yellow" align="center" alt="Features progression">
     - Destructuring
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es21)
     
@@ -195,6 +195,7 @@
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es31)
     
     - JSON Methods
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es31)
     
     - Template strings
 
