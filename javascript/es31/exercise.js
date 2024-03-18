@@ -11,6 +11,7 @@ const person1 = {
 };
 
 const person2 = { ...person1 };
+person2.address = { ...person1.address }
 person2.address.city = 'Milan';
 
 console.log(person1);
