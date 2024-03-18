@@ -1,6 +1,7 @@
 
 function repeatHello(callback) {
-    setInterval(callback, 1000)
+    const interval = setInterval(callback, 1000)
+    setTimeout(clearInterval, 5000, interval)
 }
 
 repeatHello(() => {
