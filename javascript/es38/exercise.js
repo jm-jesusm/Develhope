@@ -13,3 +13,6 @@ promise
     .catch((err) => {
         console.error(err.message)
     })
+    .finally(() => {
+        console.log("Closing console. Bye!")
+    })
