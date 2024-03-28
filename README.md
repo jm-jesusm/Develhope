@@ -8,7 +8,7 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
-- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-78%25-yellow" align="center" alt="JavaScript progress">](#JavaScript)
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-80%25-yellow" align="center" alt="JavaScript progress">](#JavaScript)
 
 ## Tabla de contenidos:
 
@@ -200,7 +200,7 @@
     - Template strings
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es33)
 
-4. Asynchronous Javascript &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-83%25-yellow" align="center" alt="Asynchronous progression">
+4. Asynchronous Javascript &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="Asynchronous progression">
     - Callbacks
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es34)
     
