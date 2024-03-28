@@ -8,7 +8,7 @@
 
 - [CSS](#CSS)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-100%25-green" align="center" alt="CSS progress">](#CSS)
 
-- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-84%25-yellow" align="center" alt="JavaScript progress">](#JavaScript)
+- [JavaScript](#JavaScript)&nbsp;&nbsp;[<img src="https://img.shields.io/badge/progress-86%25-yellow" align="center" alt="JavaScript progress">](#JavaScript)
 
 ## Tabla de contenidos:
 
@@ -226,8 +226,9 @@
     - Network Requests
       &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es41)
 
-6. Browser Storage &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-0%25-darkred" align="center" alt="Browser Storage progression">
+6. Browser Storage &nbsp;&nbsp;<img src="https://img.shields.io/badge/progress-33%25-red" align="center" alt="Browser Storage progression">
     - Local Storage
+      &nbsp;&nbsp;[<img src="https://img.shields.io/badge/go%20to%20code-grey" align="center" alt="go to code">](https://github.com/jm-jesusm/Develhope/tree/js-exercises/javascript/es42)
     
     - Local Storage
     
